@@ -6,7 +6,7 @@ permalink:  cli_data_gem_project
 ---
 
 
-For my Ruby Data Gem Project I decided to write a a command line application that scrapes data from a website that provides live updates to cryptocurrency prices from cryptocurrency exchanges all around the world. 
+For my Ruby Data Gem Project I decided to write a command line application that scrapes data from a website that provides live updates to cryptocurrency prices from cryptocurrency exchanges all around the world. 
 
 The requirements for the project were as follows;
 
@@ -24,4 +24,4 @@ I decided to first code the CLI logic. This way I would have a pretty good idea 
 
 While coding the CLI logic i found it useful to use harded coded data to test my logic. Once I completed the the CLI, I began to replace every hard coded string with the appropriate functionality handled by the appropriate class. For this project I created 3 classes: one that controlled the CLI entirely, one for scraping data, and then one for taking in the scraped data and providing the CLI class with the information requested by the user. 
 
-Overall I would say that once you get through the initial set up and planning, the coding part may go faster than expected as long as you havee already got the general strategy of what you intend to code either written down in pseudocode or outlined in whatever way fits you best. 
+Overall I would say that once you get through the initial set up and planning, the coding part may go faster than expected as long as you have already got the general strategy of what you intend to code either written down in pseudocode or outlined in whatever way fits you best. 
