@@ -1,12 +1,12 @@
 ---
 layout: post
-title:      "CLI Data Gem Project""
-date:       2018-07-22 09:42:31 +0000
+title:      "CLI Data Gem Project"
+date:       2018-07-22 05:42:32 -0400
 permalink:  cli_data_gem_project
 ---
 
 
-For my Ruby Data Gem Project I decided to write a a command line application that scrapes data from a website that provides live updates to cryptocurrency prices on cryptocurrency exchanges all around the world. 
+For my Ruby Data Gem Project I decided to write a a command line application that scrapes data from a website that provides live updates to cryptocurrency prices from cryptocurrency exchanges all around the world. 
 
 The requirements for the project were as follows;
 
