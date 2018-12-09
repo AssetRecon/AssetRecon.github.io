@@ -1,15 +1,14 @@
 # Site settings
+author: E.C.
 title: Coding Curve
 header-img: img/home-bg.png
 email: caprice@mail.usf.edu
-copyright_name: AssetRecon
+copyright_name: E.C.
 description: > # this means to ignore newlines until "baseurl:"
   A Web Developer Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
-github_username:  AssetRecon
-learn_profile: AssetRecon
-email_username: caprice@mail.usf.edu
+github_username:  EdselCaprice
 
 # Build settings
 markdown: kramdown
